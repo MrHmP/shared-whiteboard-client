@@ -1,0 +1,26 @@
+{
+  "name": "shared-whiteboard",
+  "version": "0.0.1",
+  "description": "Shared whiteboard",
+  "main": "server.js",
+  "scripts": {
+    "start": "http-server",
+    "test": "jest --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrHmP/shared-whiteboard.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrHmP/shared-whiteboard/issues"
+  },
+  "homepage": "https://github.com/MrHmP/shared-whiteboard#readme",
+  "dependencies": {
+    "http-server": "^0.12.3"
+  },
+  "devDependencies": {
+    "jest": "24.1.0"
+  }
+}
